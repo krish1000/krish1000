@@ -9,9 +9,12 @@ Please feel free to take a look at my [projects](https://github.com/krish1000?ta
 🎓 York University -> Specialized Hons. BSc. Computer Science <br>
 📫 How to reach me: krish100@my.yorku.ca
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=krish1000&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats-krish1000.vercel.app/api?username=krish1000&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
 <!--
 **krish1000/krish1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+OLD STATS URL (NOT USING MY VERCEL INSTANCE):
+![Github Stats](https://github-readme-stats.vercel.app/api?username=krish1000&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
 
 Here are some ideas to get you started:
 
